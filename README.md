@@ -5,6 +5,7 @@ TODOS
 
 
 NOTES
-	> - left off at https://angular.io/tutorial/toh-pt2
-	> - cd into tour-of-heros directory
-	> - ng serve -o #this opens the localhost 4200 port in a browser tab
+	> 
+		- left off at https://angular.io/tutorial/toh-pt2
+	 	- cd into tour-of-heros directory
+		- ng serve -o #this opens the localhost 4200 port in a browser tab
